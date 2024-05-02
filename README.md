@@ -1,5 +1,5 @@
 # Catch-Mind
-Catch mind with Logisim-Evolution.
+Catch-mind with Logisim-Evolution.
 
 Catch-mind is a game where one player sketches something, and the other players try to guess what it is. The drawer earns points if their drawing leads to a correct guess, while the guessers earn points for correctly identifying the sketch. 
 
